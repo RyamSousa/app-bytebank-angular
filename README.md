@@ -1,3 +1,7 @@
+## Sources
+ - [BEM Methodology](http://getbem.com/)
+ - [Article of CSS with BEM](https://www.alura.com.br/artigos/criando-componentes-css-com-padrao-bem)
+ 
 # AppBytebankAngular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.6.
