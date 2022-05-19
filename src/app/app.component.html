@@ -1,1 +1,3 @@
-<app-nova-transferencia></app-nova-transferencia>
+<app-nova-transferencia (aoTransferir)="getTransferencia($event)"></app-nova-transferencia>
+<p>Valor: {{transferencia?.valor}}</p>
+<p>Valor: {{transferencia?.destino}}</p>

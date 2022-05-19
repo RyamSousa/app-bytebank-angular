@@ -6,5 +6,9 @@ import { Component } from "@angular/core";
 	styleUrls: ["./app.component.scss"],
 })
 export class AppComponent {
-	title = "app-bytebank-angular";
+	transferencia: any;
+
+	getTransferencia($event) {
+		this.transferencia = $event;
+	}
 }
